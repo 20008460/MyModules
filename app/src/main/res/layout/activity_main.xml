@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+    >
+
+    <TextView
+        android:id="@+id/c346"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C346 Android Programming" />
+
+    <TextView
+        android:id="@+id/c328"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C328 Intelligent Network" />
+
+    <TextView
+        android:id="@+id/c203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203 Web Application In PHP" />
+
+    <TextView
+        android:id="@+id/c228"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C228 Operating System Security" />
+
+    <TextView
+        android:id="@+id/c331"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C331 Digitial Security and Forensic" />
+
+</LinearLayout>
